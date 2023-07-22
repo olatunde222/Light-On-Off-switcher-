@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10rem;
+    color: crimson;
+    background: #080808;
+    flex-direction: column;
+    font-size: 2rem;
+    
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 2rem;
+}
